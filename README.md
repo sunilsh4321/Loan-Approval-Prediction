@@ -1,14 +1,14 @@
 # Loan-Approval-Prediction
 
-**Overview**
+**Overview**:
 This project aims to build a predictive model for loan approval decisions using machine learning techniques. By analyzing applicant data, the model can predict whether a loan application will be approved or rejected. This can help financial institutions streamline their loan approval processes and minimize the risk of defaults.
 
-**Tech Stack Used**
+**Tech Stack Used**:
 Programming Language: Python
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 
-****Project Overview**
+****Project Overview**:
 **This project involves the following steps:
 
 Data Preprocessing: Cleaning and preparing the data for analysis.
@@ -18,14 +18,14 @@ Model Development: Building and training machine learning models to predict loan
 Model Evaluation: Evaluating the performance of the models using various metrics.
 Results: Analyzing the outcomes and selecting the best model.
 
-**Models**
+**Models**:
 The project includes several machine learning models for loan approval prediction:
 
 Logistic Regression, Decision Tree, Random Forest
 
 
-**Model Evaluation**
-We evaluate the models using metrics such as accuracy, precision, recall, F1 scoree
+**Model Evaluation**:
+We evaluate the models using metrics such as accuracy, precision, recall, F1 score.
 
-**Results**
+**Results**:
 The best-performing model achieved an accuracy of 77% on the test dataset

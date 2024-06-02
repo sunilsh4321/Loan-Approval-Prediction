@@ -13,9 +13,10 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 Data Preprocessing: Cleaning and preparing the data for analysis.
 Exploratory Data Analysis (EDA): Understanding the data through visualization and statistical analysis.
-Feature Engineering: Creating new features and transforming existing ones to improve model performance.
+Feature Engineering: Encoding categorical variables.
 Model Development: Building and training machine learning models to predict loan approval status.
 Model Evaluation: Evaluating the performance of the models using various metrics.
+Hyperparameter Tuning: Optimizing the model's hyperparameters using grid search with k-fold cross-validation
 Results: Analyzing the outcomes and selecting the best model.
 
 **Models**:
